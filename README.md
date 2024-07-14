@@ -3,10 +3,9 @@
     <p>This project demonstrates how to send emails using voice input in Python. It utilizes a speech recognition library for converting speech to text and the standard library's SMTP module for sending emails.</p>
     <h2>Requirements</h2>
     <ul>
-        <li>Python 3.x</li>
+        <li>Python 3</li>
         <li>SpeechRecognition library</li>
-        <li>smtplib library (built-in with Python)</li>
-        <li>pyttsx3 (optional, for text-to-speech feedback)</li>
+        <li>yagmail library</li>
     </ul>
     <h2>Usage</h2>
     <ol>
